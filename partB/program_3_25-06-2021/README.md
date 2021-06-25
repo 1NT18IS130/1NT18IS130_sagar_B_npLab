@@ -1,9 +1,4 @@
 ### Client and Server Application using P2P CSMA Connection
 
 #### Output
-<!-- <figure class="video_container">
-<video controls="true" allowfullscreen="true">
-    <source src="output.mp4" type="video/mp4">
-</video>
-</figure> -->
-[![Output]()](output.mp4)
+![Output](https://i.imgur.com/Q5ex1BQ.mp4)
